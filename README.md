@@ -214,12 +214,19 @@ The optimized network demonstrates:
 
 ## Screenshots
 
-Add the following screenshots here:
+<img width="719" height="441" alt="image" src="https://github.com/user-attachments/assets/991081cc-da09-431c-90e3-4e4a9d5150db" />
+
 
 - Network Topology
+  <img width="905" height="586" alt="image" src="https://github.com/user-attachments/assets/b71549b8-3aa9-42f5-8c86-5aa99b66c1f2" />
+
 - Invisible Coverage Hole Detection
+<img width="728" height="692" alt="image" src="https://github.com/user-attachments/assets/c992e717-1c9c-462b-9b9f-2e3a46abdb9e" />
+
 - Flask Prediction Interface
-- Network Performance Comparison
+
+  <img width="780" height="505" alt="image" src="https://github.com/user-attachments/assets/92353c06-ffc8-4053-bb5c-aa8c6e6d29ce" />
+
 - Before vs After Healing Results
 
 ---
